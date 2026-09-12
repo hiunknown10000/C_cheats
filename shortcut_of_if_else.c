@@ -11,8 +11,7 @@ int a,b;
     scanf("%d",&b);
     // printf("%d,%d",a,b);
 
-    // condition? expression in true : expression in false;
-
+    // condition? expression if true : expression if false;
     a>b?printf("A is greater than B"):printf("B is greater than A");
 
 return 0;
